@@ -1,0 +1,23 @@
+{
+  "name": "ci-unittest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazzi-boii/CI-UnitTest-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazzi-boii/CI-UnitTest-Test/issues"
+  },
+  "homepage": "https://github.com/crazzi-boii/CI-UnitTest-Test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
