@@ -1,9 +1,5 @@
 const { add, subtract, multiply, divide } = require("../src/calcOperations");
 
-test("Test Calculator Operations", () => {
-  expect(add(1, 2)).toBe(3);
-});
-
 describe("Calculator", () => {
   let calculator;
 
